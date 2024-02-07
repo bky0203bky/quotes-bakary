@@ -3,7 +3,7 @@
 A python program that generates programming quotes and jokes.
 
 ## Contributors
-- `initiator`: GUMERY Alexandre Group
+- `initiator`: GUMERY Alexandre
 - `contributor-1`: DJOBOU Ibrahima
 - `contributor-2`: GAKOU Amâra 
 - `contributor-3`: BAKARY Kylian 
